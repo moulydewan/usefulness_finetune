@@ -8,4 +8,4 @@ https://arxiv.org/abs/2503.08965.
 - **Model type:** Llama
 - **Finetuned from model:** Meta-Llama-3.1-8B-Instruct
 - **Finetuned Dataset:** [Finetuned_THUIR_Dataset](https://huggingface.co/datasets/moulydewan/THUIR_finetune_dataset)
-- **Finetuned Model:** [Finetuned_THUIR_Model](https://huggingface.co/moulydewan/Llama-3.1-8B-Instruct-Finetuned-THUIR))
+- **Finetuned Model:** [Finetuned_THUIR_Model](https://huggingface.co/moulydewan/Llama-3.1-8B-Instruct-Finetuned-THUIR)
